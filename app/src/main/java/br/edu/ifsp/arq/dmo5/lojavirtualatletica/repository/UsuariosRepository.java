@@ -28,7 +28,7 @@ public class UsuariosRepository {
     private static final String SIGNUP = "accounts:signUp";
     private static final String SIGNIN = "accounts:signInWithPassword";
     private static final String PASSWORD_RESET = "accounts:sendOobCode";
-    private static final String KEY = "?key=AIzaSyB6_sQA75g35wW4a5rh9FPNsY7RUWQbmcE";
+    private static final String KEY = "?key=AIzaSyAMKpEg_UA3dKMXH3JdPx_-8jPYrg9xcN4";
 
     private UsuarioDao usuarioDao;
 
